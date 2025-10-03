@@ -1,0 +1,13 @@
+{
+  "name": "dsfut-bot",
+  "version": "1.0.0",
+  "main": "dsfut-bot.js",
+  "scripts": {
+    "start": "node dsfut-bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
